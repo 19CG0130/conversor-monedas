@@ -1,10 +1,13 @@
 # 💱 Conversor de Monedas - Challenge ONE Java Back-End
+<p align="center">
+  <img src="https://github.com/19CG0130/conversor-monedas/assets/71781378/7f289b4e-82d5-4acd-a2ac-4ae54c353d44" alt="Badge-Conversor">
+</p>
 
 Este proyecto es parte del **Challenge ONE** y consiste en un conversor de monedas que utiliza una API para obtener las tasas de cambio actualizadas.
 
 ## 📝 Descripción
 
-El conversor de monedas es una aplicación Java que permite convertir cantidades entre diferentes monedas utilizando tasas de cambio obtenidas en tiempo real desde una API. Esta herramienta es útil para viajeros, comerciantes, y cualquier persona que necesite realizar conversiones de moneda de manera rápida y precisa.
+Aplicación Java que permite convertir cantidades entre diferentes monedas utilizando tasas de cambio obtenidas en tiempo real desde una API. Esta herramienta es útil para viajeros, comerciantes, y cualquier persona que necesite realizar conversiones de moneda de manera rápida y precisa.
 
 ## ✨ Características
 
